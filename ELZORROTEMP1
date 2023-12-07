@@ -7,7 +7,7 @@ https://archive.org/download/1-5071396992551223478/1_5071396992551223478.mp4
 #EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/28/items/images_20231204/images.jpeg"group-title="temporada 1",T1E02 - El pasadizo secreto del Zorro
 https://archive.org/download/1-5071396992551223478/1_5071396992551223479.mp4
  
-EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/28/items/images_20231204/images.jpeg"group-title="temporada 1",T1E03 - El Zorro cabalga a la misión
+#EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/28/items/images_20231204/images.jpeg"group-title="temporada 1",T1E03 - El Zorro cabalga a la misión
 https://archive.org/download/1-5071396992551223478/1_5071396992551223480.mp4
 
 #EXTINF:-1 tvg-logo="https://ia801208.us.archive.org/28/items/images_20231204/images.jpeg"group-title="temporada 1",T1E04 - El fantasma de la misión
